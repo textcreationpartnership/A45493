@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the Lord Mayor, and the Court of Aldermen, at Guildhall-Chappel, Septemb. 19, 1680 by Robert Hancocke ...</title>
+            <author>Hancock, Robert, fl. 1680-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45493</idno>
+            <idno type="STC">Wing H645</idno>
+            <idno type="STC">ESTC R10880</idno>
+            <idno type="EEBO-CITATION">13011406</idno>
+            <idno type="OCLC">ocm 13011406</idno>
+            <idno type="VID">96484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96484)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the Lord Mayor, and the Court of Aldermen, at Guildhall-Chappel, Septemb. 19, 1680 by Robert Hancocke ...</title>
+                  <author>Hancock, Robert, fl. 1680-1686.</author>
+               </titleStmt>
+               <extent>[5], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft for Tho. Flesher ..., and W. Leech ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XIX, 42 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:96484:1"/>
+            <opener>
+               <signed>CLAYTON, Mayor,</signed> 
+               <dateline>
+                  <date>
+                     <hi>Jovis</hi> xxiii<hi rend="sup">o</hi> 
+                     <hi>die</hi> Septemb. 1680. <hi>Anno<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Regni Regis</hi> CAROLI <hi>Secundi,</hi> Angl', <hi>&amp;c.</hi> xxxii<hi rend="sup">o</hi>.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Hancocke</hi> to print his Sermon, Preached at the <hi>Guildhall-Chappel</hi> on Sunday laſt before the Lord Mayor and Aldermen.</p>
+            <closer>
+               <signed>Wagſtaffe,</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96484:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE Lord Mayor, AND THE COURT of ALDERMEN, AT <hi>Guildhall-Chappel, Septemb.</hi> 19. 1680.</p>
+            <p>By <hi>ROBERT HANCOCKE,</hi> Fellow of <hi>Clare-hall</hi> in <hi>Cambridge,</hi> and Rector of <hi>Northill</hi> in <hi>Bedfordſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Roycroft</hi> for <hi>Tho. Fleſher</hi> at the <hi>Angel</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-yard, and <hi>W.Leech</hi> at the Crown in <hi>Cornhill.</hi> 1680.</p>
+            <pb facs="tcp:96484:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96484:2"/>
+            <head>TO THE RIGHT HONOURABLE Sir <hi>Robert Clayton</hi> Kr. Lord Mayor of the City of <hi>London,</hi> And to the Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE preſent Juncture of our Affairs is ſuch, that nothing but the moſt active Zeal for our Re<g ref="char:EOLhyphen"/>ligion, the most conſtant Loyalty to the King, and the firmeſt <g ref="char:V">Ʋ</g>nion among our ſelves, can (without a Miracle) ſecure this Church and King<g ref="char:EOLhyphen"/>dom.
+<pb facs="tcp:96484:3"/>The deſign of the following Diſ<g ref="char:EOLhyphen"/>courſe is to recommend theſe great indi<g ref="char:EOLhyphen"/>ſpenſable Duties, and to root out all thoſe Lusts and Paſſions, which are deſtru<g ref="char:EOLhyphen"/>ctive of true Religion or Human Socie<g ref="char:EOLhyphen"/>ty, and apt to foment Inteſtine Diviſions or Forreign <g ref="char:V">Ʋ</g>ſurpations: God grant that <hi>in this our Day, we may yet know the things that belong to our Peace,</hi> the preſervation of his Majeſties Perſon and Government, and the conti<g ref="char:EOLhyphen"/>nuance of the true Reformed Religion among us.</p>
+            <closer>I am <salute>Right Honourable,</salute> 
+               <signed>Your moſt humble and moſt obedient Servant, <hi>Robert Hancocke.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96484:3"/>
+            <epigraph>
+               <q>
+                  <bibl>St. Luke XIX. 42.</bibl>
+                  <p>If thou hadſt known, even thou, at leaſt in this thy day, the things which be<g ref="char:EOLhyphen"/>long to thy peace; but now they are hidden from thine eyes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N theſe Words we have a great Inſtance, both of the ſtupidity and incorrigible<g ref="char:EOLhyphen"/>neſs of the Jews, and of our Saviour's love and tender<g ref="char:EOLhyphen"/>neſs towards his implacable Enemies. For he was no ſooner come within view of <hi>Jeruſalem,</hi> but he laments thoſe Deſolations, which (by the juſt Judg<g ref="char:EOLhyphen"/>ment of God) were breaking in upon them: <hi>When he was come near, he beheld the City, and wept over it</hi>
+               <note n="(a)" place="margin">Verſe 41.</note> And as he could not be<g ref="char:EOLhyphen"/>hold their deſtruction without tears, ſo nei<g ref="char:EOLhyphen"/>ther would he expreſs his apprehenſions of it, without ſome kind of abruptneſs.</p>
+            <p>Whether there was an irreverſible Decree already paſt in Heaven againſt the Jewiſh
+<pb n="2" facs="tcp:96484:4"/>Nation, as it cannot be determined from this Text, ſo it is beſides my preſent purpoſe to enquire: But it is more certain, that a flaming Sword was now hanging over their heads; there were too many Symptoms of their approaching ruin; and our Saviour in the next Verſe tells them plainly, That the <hi>Romans</hi> ſhould be the Executioners of the Divine Vengeance upon them. Yet ſome of the Jews were ſecure and inapprehenſive of the common Danger; and the reſt did neither reſolve the Judgments of God into their proper Principles, nor comply with the end and deſign of them, by conſidering <hi>the time of their Viſitation</hi>
+               <note n="(b)" place="margin">Verſe 44.</note> Theſe profound Politicians invented a new State-engine (the putting Chriſt to death) to ſecure themſelves not only from the <hi>Romans,</hi> but from their own Sins too. They fruſtrated all the de<g ref="char:EOLhyphen"/>ſigns of God's Mercies and Judgments; they filled up the meaſure of their Fathers; and at laſt they forced the Almighty to find out unheard of methods of puniſhment, as might be ſhewed from the fatal circumſtances of that dreadful Story.</p>
+            <p>I know, we have not yet had as loud A<g ref="char:EOLhyphen"/>larms from Heaven as they, but yet we have
+<pb n="3" facs="tcp:96484:4"/>juſt reaſon to believe, that God in the way of his Providence, ſpeaks to us in the lan<g ref="char:EOLhyphen"/>guage of the Text, <hi>If you had known,</hi> &amp;c. Or, <hi>Oh that ye would yet know and lay to heart the things that belong to your peace,</hi> &amp;c. For are not our Diviſions and Animoſities as high? Are not our ſins aggravated with as ſignal mercies and deliverances, as theirs? We are crumbled into as many Sects and Parties as they, and moſt of them are ſo much more intent upon their private Inter<g ref="char:EOLhyphen"/>eſts, then upon the common Intereſt of Proteſtants, that it ſeems no very hard mat<g ref="char:EOLhyphen"/>ter for the Modern <hi>Romans</hi> to enter in at thoſe Breaches, which are made amongſt us.</p>
+            <p>There were two things, which were both the Cauſes and Symptoms of the Jewiſh Ca<g ref="char:EOLhyphen"/>lamities.</p>
+            <p n="1">1. Ageneral corruption and licentiouſ<g ref="char:EOLhyphen"/>neſs in the lives of men.</p>
+            <p n="2">2. Thoſe unnatural diſſentions and feuds among themſelves.</p>
+            <p>If ever our Adverſaries of <hi>Rome</hi> prevail a<g ref="char:EOLhyphen"/>gainſt us, they muſt make uſe of theſe two mighty Advantages, which we have put into their hands; and ſo long as our Sins and our Diviſions are battering our Walls, and peck<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:96484:5"/>at our Foundations, I know nothing but a Miracle of Mercy, that can preſerve our Religion and Government. Theſe were the Cauſes of our former Sufferings, as they are of our preſent fears, and the doing what in us lies (in our reſpective Capacities) to<g ref="char:EOLhyphen"/>wards the removal of them, is the only ef<g ref="char:EOLhyphen"/>fectual way of minding the things which be<g ref="char:EOLhyphen"/>long to the peace of our Church and King<g ref="char:EOLhyphen"/>dom. I crave leave therefore to repreſent and enforce this ſeaſonable Duty, with re<g ref="char:EOLhyphen"/>ſpect to the preſent juncture of Affairs, ſo far as the peculiar care of ſome, and the pray<g ref="char:EOLhyphen"/>ers and endeavours of all of you are con<g ref="char:EOLhyphen"/>cerned in it.</p>
+            <p n="1">1. We muſt begin with a ſincere Refor<g ref="char:EOLhyphen"/>mation, and cleanſing our ſelves from all manner of Debauchery and Prophaneneſs. <hi>The Wiſdom which is from above, is firſt pure, then peaceable</hi>
+               <note n="(c)" place="margin">St. James 3.17.</note>; and till the Luſts that war in our Members be ſubdued, 'tis in vain to look for a laſting Settlement, for <hi>there is no peace to the wicked</hi>
+               <note n="(d)" place="margin">Iſai. 57.21.</note>. <hi>If ye ſhall ſtill do wickedly, ye ſhall be conſumed, both ye and your King</hi>
+               <note n="(e)" place="margin">Sam. 12.25.</note>.</p>
+            <p>But (to deſcend to particulars) our conti<g ref="char:EOLhyphen"/>nuance in Licentiouſneſs and Irreligion, is the way to ſubvert the Civil Peace, to let in
+<pb n="5" facs="tcp:96484:5"/>Popery, or elſe a meer empty Formal Reli<g ref="char:EOLhyphen"/>gion among us.</p>
+            <p n="1">1. It is the way to ſubvert the Civil Peace.</p>
+            <p>If the ſinful Luſts and Paſſions of men do naturally tend to the diſſolution of a Go<g ref="char:EOLhyphen"/>vernment; if the Divine Protection be that wherein the Safety of a Kingdom doth con<g ref="char:EOLhyphen"/>ſiſt; if the practice of Chriſtian Righteouſ<g ref="char:EOLhyphen"/>neſs be that alone which can entitle us to the favour of God; If downright Atheiſm, or the contempt of all revealed Religion; if the moſt monſtruous Ingratitude, or the moſt obſtinate Incorrigibleneſs; if the mocking of God by Hypocritical Wickedneſs; or the proclaiming War againſt him by notorious Prophaneneſs, can provoke him to Wrath and Vengeance; then I am ſure that nothing but a timely Reformation can provide for the Peace and Settlement of this Kingdom.</p>
+            <p n="2">2. This is the way to let in Popery among us.</p>
+            <p>For that's a Religion (ſuch a one as it is) that all looſe and licentious People are al<g ref="char:EOLhyphen"/>ready prepared for; 'tis the moſt pleaſant and eaſie, the moſt gay and pompous Reli<g ref="char:EOLhyphen"/>gion in the World; 'tis ſuch a one as they
+<pb n="6" facs="tcp:96484:6"/>would deviſe, were they to make a Religion for themſelves. For the truth of this Charge I appeal to any man, that underſtands the virtue of their Indulgencies and Maſſes, Re<g ref="char:EOLhyphen"/>liques and Pennances; the omnipotent pow<g ref="char:EOLhyphen"/>er of Abſolutions, and other ways of recon<g ref="char:EOLhyphen"/>ciling a ſinner to God in the Roman Church. Are not ſome of thoſe practices, which make up a great part of their Religion, but the Mint, Aniſe, and Cummin of Chriſtianity? Are not divers others of them inconſiſtent with the life and power of Godlineſs? I mean their Croſſings and Unctions, their voluntary Whippings and Severities, their ſuperficial Confeſſions and Abſtinencies, their mumbling over their Prayers without devotion or attention. Were not thoſe dark and ſuperſtitious Ages, wherein Pope<g ref="char:EOLhyphen"/>ry firſt ſtole into the World, times of the greateſt Licentiouſneſs and Irreligion? I confeſs the Monaſteries were Seminaries of Vertue and Piety for ſome Ages; but as the Monks encreaſed in Wealth and Reve<g ref="char:EOLhyphen"/>nues, ſo they degenerated into Idleneſs and Luxury. This is ſo plain a Truth, that e<g ref="char:EOLhyphen"/>ven ſome of their own Authors, that are moſt devoted to the Papal See, cannot deny or conceal it.</p>
+            <pb n="7" facs="tcp:96484:6"/>
+            <p> I know 'tis uſually imputed to the Jeſuits, that they allow men to lye and forſwear themſelves; to ſwallow a thouſand: Venial Sins without danger of Damnation, and to repent of as many Mortal Sins without for<g ref="char:EOLhyphen"/>ſaking them. It is commonly ſaid, Than they undertake to pardon or diſpenſe with ſome of the moſt monſtrous Crimes; and that ſome of the blackeſt ones are with them lawful or meritorious; and theſe are the Guides of Souls in the Church of <hi>Rome.</hi> But I will be ſo juſt to that Order, as to ac<g ref="char:EOLhyphen"/>knowledge, they not only affirm, but prove it too, that this is the Practical Divinity of the Church it ſelf. Is not the very Canon Law ſtuff't with Forgeries and Wickedneſs? Are not ſuch extravagant Maxims to be found in the Divines and Caſuiſts of other Orders, as the more ſober Heathens abhor<g ref="char:EOLhyphen"/>red? Are not the Books publiſht with the Authority and Approbation of the Church? Are not the Authors of them entruſted by her with the Conſciences of men? Why don't they acquaint the World what expur<g ref="char:EOLhyphen"/>gatory Index hath condemned the Writings of the three Cardinal Jeſuits, what Anathe<g ref="char:EOLhyphen"/>ma's their Church hath beſtowed upon them<note n="(f)" place="margin">Bellarmine, Baronius, <hi>and</hi> Tolet.</note>.</p>
+            <pb n="8" facs="tcp:96484:7"/>
+            <p> Were not their Perſons had in admirati<g ref="char:EOLhyphen"/>on; and are not their Writings applauded by the teaching governing part of the Church?</p>
+            <p>The truth is, the Intereſt and Grandeur of <hi>Rome</hi> are ſupported by them, and they muſt be maintain'd, whatever becomes of the Souls and Conſciences of Men.</p>
+            <p>I do not think that Popery is able to root out all good Nature; and if any of that Communion be ſo eminent for Vertue and Charity, as I hope they be, we muſt not thank the Doctrines of their Church, or the Integrity of the ruling party for it; but ei<g ref="char:EOLhyphen"/>ther their natural Diſpoſitions, or the over<g ref="char:EOLhyphen"/>ruling Grace of God, which have preſerved them from the Contagion of their Religi<g ref="char:EOLhyphen"/>on.</p>
+            <p n="3">3. This is the way to propagate a meer empty formal Religion amongſt us; A Re<g ref="char:EOLhyphen"/>ligion that teaches men to build their hopes of Salvation upon ſuch Conditions, as may be obſerved without offering Violence to their ſenſual Luſts and deareſt Intereſts. And ſo long as they deſire to go to Heaven with as little trouble as they can, I do not won<g ref="char:EOLhyphen"/>der that they will not endure ſound Do<g ref="char:EOLhyphen"/>ctrine,
+<pb n="9" facs="tcp:96484:7"/>
+               <hi>but after their own luſts heap to them<g ref="char:EOLhyphen"/>ſelves Teachers, having itching ears</hi>
+               <note n="(g)" place="margin">2 Tim. 4.3.</note>.</p>
+            <p>They will be content to offer God the <hi>Calves of their lips,</hi> rather then to give <hi>him their hearts;</hi> to cenſure or commend many Sermons, rather then to put one in practice; to put on a ſowre or demure countenance, rather then a broken and contrite heart; to preſent God Almighty with variety of Phraſes, or the moſt pathetical Expreſſions, rather then to pray with Faith and Devoti<g ref="char:EOLhyphen"/>on, Humility and Heavenly-mindedneſs, in which the Spirit of Prayer conſiſts. For ſuch things as theſe ſerve for oſtentation and vain-glory, they are very obvious and ſen<g ref="char:EOLhyphen"/>ſible, they are no great Enemies to the Paſ<g ref="char:EOLhyphen"/>ſions and Intereſts of men: Whereas Purity and Devotion, Self-denial and Meekneſs, O<g ref="char:EOLhyphen"/>bedience and Charity, Mortification of the Will and Affections, have leſs of the Pomp and Form, though infinitely more of the Life and Power of Godlineſs in them.</p>
+            <p>Thus I have given you a ſhort Account of the moſt natural and pernicious effects of Vice and Wickedneſs upon a Church and Kingdom.</p>
+            <p>And, ſince theſe things are ſo, I would
+<pb n="10" facs="tcp:96484:8"/>make an humble Addreſs to all in Authority, That, as you value the Honour and Securi<g ref="char:EOLhyphen"/>ty of our moſt holy Religion, or the Peace and Happineſs of your King and Country, you would endeavour to ſuppreſs the growth of Vice and Immorality.</p>
+            <p>For what Peace, ſo long as there is ſo much Riot and Luxury, Leudneſs and Debauche<g ref="char:EOLhyphen"/>ry, Injuſtice and Oppreſſion, cuſtomary Swearing, prophane Drollery, and contempt of Religion among us? What Peace, ſo long as ſuch a Deluge of Sin and Wickedneſs o<g ref="char:EOLhyphen"/>verflows the Nation? For theſe <hi>the Lord hath a Controverſie with the Inhabitants of the Land; therefore ſhall the Land mourn</hi>
+               <note n="(h)" place="margin">Hoſea 4.1, 3.</note>.</p>
+            <p>Theſe are the Nurſeries of Plots and Trea<g ref="char:EOLhyphen"/>ſons, of Schiſm and Sedition. But if you cannot compel men to be truly Pious and Holy, you may at leaſt force them to ſin with more modeſty and civility; If you cannot quite baniſh Sin out of the Nation, yet 'tis in your power to ſtigmatize it with diſgrace, and make it ſneak into Corners; you may reſtrain it from being bare-faced and impu<g ref="char:EOLhyphen"/>dent, from infecting the Land and involving us in the guilt of it. If you cannot root out all ſecret Wickedneſs, you may ſtop the growth
+<pb n="11" facs="tcp:96484:8"/>of horrid Impieties, of publick and crying Sins. If wicked men will have the exerciſe of their Irreligion in private, yet, I beſeech you, let them not ſin in the face of the Sun, and openly make Proſelytes in defiance of the Laws of God and Man. And would you have men make conſcience of all their Oaths, Contracts, and Promiſes? Would you have them be Loyal to the King, Obedient to Ma<g ref="char:EOLhyphen"/>giſtrates, and Serviceable to one another? Do what you can (in your ſeveral Spheres) to encourage and promote the practice of ſo<g ref="char:EOLhyphen"/>lid and ſubſtantial Religion.</p>
+            <p>But, if we deſire the ſuppreſſing of Athe<g ref="char:EOLhyphen"/>iſm and Immorality, we muſt take heed of thoſe licentious Doctrines and Principles, which are moſt apt to lead us into ſuch pra<g ref="char:EOLhyphen"/>ctices: For what wonder is it to ſee men act in conformity to their Principles? What rea<g ref="char:EOLhyphen"/>ſon is there to hope, that the generality of the World will be better, then the Doctrines of their Religion incline them to be? I will mention the principal of them, and leave you to judge, whether the natural reſult of them be not the baniſhing true Religion and Ho<g ref="char:EOLhyphen"/>lineſs out of the Nation.</p>
+            <p n="1">1. I begin with the Principles of the <hi>Le<g ref="char:EOLhyphen"/>viathan.
+<pb n="12" facs="tcp:96484:9"/>That there is nothing but Body in the World, and that the very notion of an Incorporeal Being implies a Contradiction</hi>
+               <note n="(i)" place="margin">Leviathan. c. <hi>4.</hi> c. <hi>5.</hi> c. <hi>12.</hi> c. <hi>34.</hi>
+               </note>. <hi>That men are good or evil fatally and unavoidably: And that God may be the Author of Sin</hi>
+               <note n="(k)" place="margin">Lev. c.<hi>21.</hi> Lib. <hi>and</hi> Nec. <hi>in divers places.</hi>
+               </note>. <hi>That the Law of the Civil Magiſtrate is the only obli<g ref="char:EOLhyphen"/>ging Rule of Juſt and <g ref="char:V">Ʋ</g>njuſt; and that the New Teſtament is not a Law of any place, where the Commonwealth hath not made it ſo</hi>
+               <note n="(l)" place="margin">Lev. c.<hi>42.</hi>
+               </note>. <hi>That the Obligation of Subjects to their Sovereign laſt<g ref="char:EOLhyphen"/>eth no longer, then the power laſteth, by which he is able to protect them</hi>
+               <note n="(m)" place="margin">Lev. c.<hi>21.</hi>
+               </note>.</p>
+            <p n="2">2. What is the conſequence of the Pra<g ref="char:EOLhyphen"/>ctical Divinity of the Romiſh Divines and Caſuiſts, about Repentance, Purgatory, and the efficacy of the Sacraments in conferring Grace, but the ſubverting the neceſſity of an Holy Life?</p>
+            <p n="3">3. There are ſome malignant Doctrines, that have a more immediate influence on Kingdoms and Governments; and they are ſuch as theſe. <hi>That Dominion is founded in Grace. That the Obligation of Oaths and Pro<g ref="char:EOLhyphen"/>miſes may be taken away by ſome Authority on Earth. That it is lawful to make uſe of Equi<g ref="char:EOLhyphen"/>vocations and mental Reſervations. That Church-men are exempted from the Juriſdiction of the
+<pb n="13" facs="tcp:96484:9"/>Civil Power. That a Sovereign Prince is either the Pope's Subject, or the Peoples Truſtee. That he is accountable for Hereſie or evil Government to his Holineſs at</hi> Rome, <hi>or to ſome Aſſembly of Church-men or Inferiour Magiſtrates within his own Dominions.</hi>
+            </p>
+            <p n="4">4. I wiſh, the <hi>Libertines, Antinomians,</hi> and other <hi>Carnal Goſpellers</hi> of this Age, had not furniſht us with another Catalogue of Li<g ref="char:EOLhyphen"/>centious Doctrines. The chief of them are theſe that follow: <hi>That the Moral Law is ab<g ref="char:EOLhyphen"/>rogated by Jeſus Chriſt. That the Covenant of Grace is abſolute and unconditional; and that no man ought to work for Salvation, much leſs for the fear of Hell. That the Torments of Hell are not properly Eternal. That a good Moral Man is further from the Kingdom of God then a looſe Liver. That juſtifying Faith conſiſteth in believing that a man is perdeſtinated to Eternal Life. That Sins are pardoned before they are committed; and that God ſees no Sin in his Peo<g ref="char:EOLhyphen"/>ple.</hi>
+            </p>
+            <p>To this Head I might reduce all ſuch No<g ref="char:EOLhyphen"/>tions of Chriſtian Liberty, as deſtroy the ne<g ref="char:EOLhyphen"/>ceſſity of Obedience in all lawful things. All ſuch Notions of God and his Decrees, as make him the Author of our Sin or Miſery,
+<pb n="14" facs="tcp:96484:10"/>or ſet up the Decrees of God in oppoſition to his Laws, or one of his Attributes in op<g ref="char:EOLhyphen"/>poſition to another. All ſuch Notions of Jeſus Chriſt, as ſet up his Perſon in oppoſiti<g ref="char:EOLhyphen"/>on to his Goſpel; or make us righteous with Chriſt's Righteouſneſs, whilſt we continue in any Courſe of Sin.</p>
+            <p>But thus much may ſuffice to have ſpo<g ref="char:EOLhyphen"/>ken of the firſt thing.</p>
+            <p n="2">2. We have reaſon to be apprehenſive of the effects of our unnatural Contentions and Animoſities, as well as of our open and noto<g ref="char:EOLhyphen"/>rious Vices. Certainly never any People en<g ref="char:EOLhyphen"/>joyed more excellent means of Peace and U<g ref="char:EOLhyphen"/>nity; never any People laboured more un<g ref="char:EOLhyphen"/>der the Calamities of Rebellions and Facti<g ref="char:EOLhyphen"/>ons; never was any People aſſaulted with more bloody &amp; implacable, more ſubtle and induſtrious Enemies, then we are. It is there<g ref="char:EOLhyphen"/>fore the Duty and Intereſt of all Loyal Sub<g ref="char:EOLhyphen"/>jects and good Chriſtians, to endeavour to correct that Spirit of Sedition and Diviſion that is working among us, and to promote the Security and Eſtabliſhment both of our Government and Religion.</p>
+            <p n="1">1. I begin with the Civil Government.</p>
+            <p>You have (bleſſed be God) the Scriptures
+<pb n="15" facs="tcp:96484:10"/>in your own Language, and if you read them without partiality and prejudice, you will ſoon learn thoſe indiſpenſable Duties of Peace, Humility, and Obedience. They will teach you to <hi>pray for the King, and all in Au<g ref="char:EOLhyphen"/>thority under him</hi>
+               <note n="(n)" place="margin">1 Tim. 2.1.</note>. <hi>To be ſubject, not only for Wrath, but for Conſcience ſake</hi>
+               <note n="(o)" place="margin">Rom. 13.5.</note>. They will plant in you all thoſe diſpoſitions, which are eſſential to the ſupport of Government and Society; they will ſubdue all thoſe Paſſions, and mortifie all thoſe Luſts, which are the Parents of Strifes and Quarrels, of Confuſi<g ref="char:EOLhyphen"/>ons and Treaſons; beſides, you are Members of a Church; whoſe juſt glory it is, to aſſert the Rights of Princes with ſo much plainneſs and ſincerity, that no man can be true to the Church of <hi>England,</hi> whilſt he is falſe to his Sovereign. This holy and peaceable Reli<g ref="char:EOLhyphen"/>gion, will teach you to beware of, and ſup<g ref="char:EOLhyphen"/>preſs all others (of what Communion ſoe<g ref="char:EOLhyphen"/>ver) that vent any ſeditious Doctrines, or al<g ref="char:EOLhyphen"/>low of ſuch practices as are conſonant to them.</p>
+            <p>I know, the moſt horrid things have been taught and acted among us, under the diſ<g ref="char:EOLhyphen"/>guiſe of Religion; but of all men living, the <hi>Romaniſts</hi> have the leaſt reaſon to charge any
+<pb n="16" facs="tcp:96484:11"/>of our Sects with Treaſon and Sedition: For the moſt barbarous Villanies that were com<g ref="char:EOLhyphen"/>mitted in theſe Kingdoms, may be juſtified by the principles of that Faction; and the moſt Antimonarchical Doctrines, that ever came from the Pulpit or the Preſs, either were or might be derived from the Canon Law, the Popes and Councils, the moſt approved Caſuiſts and Guides of Souls. Let Pope <hi>Six<g ref="char:EOLhyphen"/>tus</hi> the Fifth have the honour, of being ei<g ref="char:EOLhyphen"/>ther the firſt inventer or poliſher of the Fa<g ref="char:EOLhyphen"/>natick Art of Canting and perverting the Scriptures, admiring the providence of God in the murder of a lawful King, and the truth is, the firſt Thankſgiving Sermon that I find on ſuch an Occaſion, was preacht by his Ho<g ref="char:EOLhyphen"/>lineſs in the <hi>Roman Conſiſtory</hi>
+               <note n="(p)" place="margin">See his Pa<g ref="char:EOLhyphen"/>negyrick Ora<g ref="char:EOLhyphen"/>tion on the murder of <hi>H.</hi> 3 of. <hi>France;</hi> It was printed at <hi>Paris, An.</hi> 1589 with the ap<g ref="char:EOLhyphen"/>probation of three Doctors.</note>. Nor do I envy the Roman Church, the glory of ſan<g ref="char:EOLhyphen"/>ctifying Rebellions and Murders, Perfidi<g ref="char:EOLhyphen"/>ouſneſs and Cruelty by the Authority of ſome of her General Councils. 'Tis no won<g ref="char:EOLhyphen"/>der, if the ſame power, which transforms bread and wine into the ſubſtance of Chriſts natural body and blood, do alſo transform Chriſtians into <hi>Wolves</hi> and <hi>Tygers.</hi> Did ſome of our Sectaries abuſe <hi>Curſe ye Meroz,</hi> and o<g ref="char:EOLhyphen"/>ther parts of Scripture to the carrying on the
+<pb n="17" facs="tcp:96484:11"/>blackeſt Deſigns? So did <hi>Alexander</hi> the third,<note n="(q)" place="margin">Ep. Alex. 3. Conc. Bin. tom. 7 par. 2. pag. 656.</note> ſo did <hi>Pius</hi> the fifth thoſe<note n="(r)" place="margin">Bullar. Che<g ref="char:EOLhyphen"/>rub. tom. <hi>2.</hi> pag. <hi>305. printed at</hi> Rome <hi>1617.</hi>
+               </note> words of God, <hi>I have ſet thee over Nations and Kingdoms &amp;c.</hi> Did not Innocent the Fourth prove his power of depoſing Princes from that Text, <hi>Whatſoever ye ſhall bind on Earth, &amp;c.</hi>
+               <note n="(s)" place="margin">See Pope <hi>Innocent</hi> the Fourth's Sen<g ref="char:EOLhyphen"/>tence of De<g ref="char:EOLhyphen"/>privation a<g ref="char:EOLhyphen"/>gainſt the Em<g ref="char:EOLhyphen"/>perour <hi>Ferdi<g ref="char:EOLhyphen"/>nando</hi> in the Council of <hi>Vienna.</hi>
+               </note>. Have you never heard of the incomparable Inter<g ref="char:EOLhyphen"/>pretations of <hi>Riſe Peter, kill and eat? Feed my Sheep? <g ref="char:V">Ʋ</g>pon this Rock will I build my Church?</hi> It were no hard matter to give you a <hi>Speci<g ref="char:EOLhyphen"/>men</hi> of the Divinity of Popes and Cardinals, men of greater Learning and Authority, but of as little Conſcience and Loyalty as the Authors of our moſt peſtilent Sermons and Pamphlets. Are any of theſe under unlaw<g ref="char:EOLhyphen"/>ful Oaths and Engagements? So are all the <hi>Biſhops, Jeſuits, Monks,</hi> and <hi>Friars</hi> of that Church under Oaths of abſolute Allegiance to the Pope, or of blind Obedience to their Superiors, that are his Creatures and Vaſ<g ref="char:EOLhyphen"/>ſals<note n="(t)" place="margin">See <hi>Pontif. Rom. p.</hi> 59. where you have the Oath it ſelf which is taken by eve<g ref="char:EOLhyphen"/>ry Biſhop at his Conſecrati<g ref="char:EOLhyphen"/>on; and it is the ſtricteſt Oath of Alle<g ref="char:EOLhyphen"/>gience that e<g ref="char:EOLhyphen"/>ver was in<g ref="char:EOLhyphen"/>vented. See the Bulls of <hi>Paul</hi> 3. 1549. <hi>Bullar. tom.</hi> 1. <hi>p.</hi> 687. of <hi>Julius</hi> 3. 1650. of <hi>Pins</hi> 4. 1564.</note>. Was there an infamous <hi>High Court of Juſtice</hi> ſet up in <hi>England?</hi> There have been many ſuch erected at <hi>Rome,</hi> (and as well de<g ref="char:EOLhyphen"/>ſerving that name) wherein Sovereign Prin<g ref="char:EOLhyphen"/>ces have been condemned, for not ſubmit<g ref="char:EOLhyphen"/>ting to the Juriſdiction of the Court.</p>
+            <p>From whom did the Rigicides learn, <hi>That
+<pb n="18" facs="tcp:96484:12"/>the Original of all Civil Power is from the Peo<g ref="char:EOLhyphen"/>ple? That it is deriv'd to the Sovereign by way of mutual Contract? That he is no more but an Officer in Truſt? That the Duty of Subjects is only Conditional? That the Commonwealth hath Authority to curb or reſtrain him, to bring him to trial for Male-adminiſtration or Tyranny</hi>
+               <note n="(a)" place="margin">Reynolds (<hi>under the counterfeit Name of</hi> Roſ<g ref="char:EOLhyphen"/>ſaeus) <hi>hath written</hi> De ju<g ref="char:EOLhyphen"/>ſt a Chriſtianae Reipublicae in Feges Impios &amp; Haeresicos Authoritare. <hi>His Book was written at the requeſt of the</hi> Leaguers <hi>in</hi> France, <hi>and ap<g ref="char:EOLhyphen"/>proved by the Papal See. See</hi> Mariana. L. 1. c. 8.
+<p>Parſons (<hi>under the name of</hi> Doleman) <hi>and</hi> Bellarmine <hi>in many places.</hi> Sober Reckoning pag. 424.</p>
+                  <p>Em. Sa. Aph. V. princeps; <hi>with the whole Herd of the Jeſuits.</hi>
+                  </p>
+               </note>? Didſome wild Sectaries attempt to dethrone the Lord's Anointed, for the advancement of Chriſt's Kingdom? Theſe have done as much for his Vicar, as they did for the Ma<g ref="char:EOLhyphen"/>ſter. Who was it that taught them, <hi>That Religion is to be propagated with the Sword</hi>
+               <note n="(b)" place="margin">This is the expreſs Doctrine of the third and fourth Council of <hi>Lateran.</hi>
+               </note>? <hi>That Princes may be put to death for Tyranny or Hereſie, and in what method they are to be brought to the Block?</hi>
+               <note n="(c)" place="margin">
+                  <hi>Fr. Verone</hi> wrote an Apology for a Traytor, one of the moſt deſperate Villains in the World. That infamous Book of <hi>Boucher</hi> (a French Jeſuit) <hi>De juſta Hen.</hi> 3. <hi>abdications</hi> is well known. <hi>Bellarmine</hi> was a principal Actor in the French League. Pope <hi>Sixtus</hi> the Fifth applauded the murder of <hi>Hen.</hi> 3. The General Council of <hi>Conſtance</hi> ſuppoſes it to be lawful in ſome caſes to put a Prince to death. See more of this Subject in <hi>Verone, Roſ<g ref="char:EOLhyphen"/>ſaeus, Mariana, &amp;c.</hi>
+               </note>
+            </p>
+            <p>Let any man produce greater Enemies to the Rights of Princes, then the Lawful Re<g ref="char:EOLhyphen"/>preſentatives of the Roman Church in their
+<pb n="19" facs="tcp:96484:12"/>Holy Synods. Let any man ſhew me a mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pernicious Account of the riſe of Civil Go<g ref="char:EOLhyphen"/>vernment, then is to be found in the Epiſtles of Pope <hi>Gregory</hi> the Seventh.</p>
+            <p>Indeed I can hardly meet with any Trea<g ref="char:EOLhyphen"/>ſonable Poſitions, any Texts of Scripture, or Arguments to maintain them (in the Pam<g ref="char:EOLhyphen"/>phlets of this laſt Age) which are not ex<g ref="char:EOLhyphen"/>preſly contain'd in the Writings of Popes and Jeſuits, or at leaſt to be parallel'd in the moſt approved Authors of the Roman Church.</p>
+            <p>Who taught the Engliſh Rebels the di<g ref="char:EOLhyphen"/>ſtinction between the Authority and the Perſon of a King? Who taught them to fight for the King, whilſt they ſhot againſt his Per<g ref="char:EOLhyphen"/>ſon? and to kill the Tyrant without killing the King<note n="(d)" place="margin">This di<g ref="char:EOLhyphen"/>ſtinction was invented by the Jeſuits; and 'tis their common Do<g ref="char:EOLhyphen"/>ctrine, that af<g ref="char:EOLhyphen"/>ter a King is depoſed, de<g ref="char:EOLhyphen"/>clared a pub<g ref="char:EOLhyphen"/>lick Enemy by the Pope, or the States of the Kingdom, he ceaſes to be a King.</note>? Were ſome of them Sainted by their own party? and were not ſome of the Gunpowder Traytors preferr'd at <hi>Rome?</hi> Is not <hi>Becket</hi> (that lived and died a Traytor to his King) honoured as a Saint and Mar<g ref="char:EOLhyphen"/>tyr in the publick Offices of that Church<note n="(e)" place="margin">Breviar. Rom. Hic eſt verè Martyr, qui pro Chriſti nomine, &amp;c.</note>?</p>
+            <p>I know there are ſome, that profeſs them<g ref="char:EOLhyphen"/>ſelves to be Catholicks of the Church, but not of the Court of <hi>Rome;</hi> and I do verily be<g ref="char:EOLhyphen"/>lieve, that ſome of that Communion do (as
+<pb n="20" facs="tcp:96484:13"/>they pretend) abominate the Uſurpations of the Roman Court. Intereſt in ſome, and good nature in others, have made them bet<g ref="char:EOLhyphen"/>ter Subjects, then the principles of their Re<g ref="char:EOLhyphen"/>ligion, allow them to be. Some of them have too much honeſty; others have too little zeal for the Catholick Cauſe, to be entruſted with ſuch a Myſtery of Iniquity, and many do not underſtand how much Pride and Covetouſneſs lies at the bottom of the Church, as well as of the Court of <hi>Rome.</hi> But yet all the loyalty or peaceableneſs of theſe men depends either on their natural Diſpo<g ref="char:EOLhyphen"/>ſitions, or their private intereſts, or their lukewarmneſs in Religion; or their igno<g ref="char:EOLhyphen"/>rance of the Doctrine of their own Church.</p>
+            <p>As to the Diſtinction it ſelf; that dare not ſhew its face at <hi>Rome;</hi> though it be more talked of, then underſtood in <hi>England,</hi> I have two things to ſay.</p>
+            <p n="1">1. That ſuch Doctrines, as ſtrike at the very root of our Religion and Government, have been determined by the Roman Church, in ſome of her General Councils; I mean the Doctrines of <hi>Depoſing Princes, and abſolving Subjects from their Allegiance to them</hi>
+               <note n="(f)" place="margin">
+                  <p>Beſides the third &amp; fourth General Coun<g ref="char:EOLhyphen"/>cils of <hi>Lat.</hi> ſee the Gene<g ref="char:EOLhyphen"/>ral Council of <hi>Lyons</hi> in the Decree for the recovery of the Holy Land. That the Sen<g ref="char:EOLhyphen"/>tence of Depo<g ref="char:EOLhyphen"/>ſition againſt <hi>Frederick</hi> the Emperour, was the act of the Council as well as of the Pope, is proved by the Author of the <hi>Supplement to Parſon's Diſ<g ref="char:EOLhyphen"/>cuſſion, &amp;c.</hi> See alſo <hi>M. Pa<g ref="char:EOLhyphen"/>ris,</hi> p 666, 667, 668.</p>
+                  <p>The Council of <hi>Trent</hi> (though it was then no time to ſpeak plain) paſſed ſuch a Decree (<hi>Seſſ.</hi> 25.) as was ſufficient to keep up the claim to this power.</p>
+               </note>; <hi>of breaking Faith with Hereticks</hi>
+               <note n="(g)" place="margin">Conc. Conſt. Seſſ. 19.</note>; <hi>of
+<pb n="21" facs="tcp:96484:13"/>rooting them out with Fire and Sword</hi>
+               <note n="(h)" place="margin">
+                  <hi>Conc. Lat.</hi> 3. <hi>c.</hi> 27. <hi>Conc. Lat.</hi> 4. <hi>c. de Haereti<g ref="char:EOLhyphen"/>cis.</hi> And this Doctrine was put in practice by the Gene<g ref="char:EOLhyphen"/>ral Council of <hi>Conſtance.</hi>
+               </note>; <hi>and of the exemption of the Clergy from the Juriſ<g ref="char:EOLhyphen"/>diction of Secular Princes</hi>
+               <note n="(i)" place="margin">
+                  <hi>Conc. Lat.</hi> 3. <hi>c.</hi> 14. <hi>Conc. Lat.</hi> 4. <hi>c.</hi> 43. And the Council of <hi>Trent</hi> confirm<g ref="char:EOLhyphen"/>ed the ſame Doctrine; of which ſee more in the excel<g ref="char:EOLhyphen"/>lent Hiſtory of that Council.</note>. Theſe are the Orthodox Doctrines of the moſt Loyal and Charitable Church of <hi>Rome.</hi>
+            </p>
+            <p n="2">2. Though there might be ſome plauſible pretence for this diſtinction, before the Re<g ref="char:EOLhyphen"/>formation, yet the Council of <hi>Trent</hi> (the great Oracle of the preſent Roman Church) hath utterly deſtroyed it, as to thoſe purpoſes, for which it is produced. For the Reformers having aſſerted the Rights of the Church, againſt the Uſurpations of the Papal See, and appealed to a lawful General Council, the Fa<g ref="char:EOLhyphen"/>thers at <hi>Trent</hi> gave up the Cauſe, eſpouſed the Intereſt of the Court of <hi>Rome,</hi> and made its Judgment abſolute and unappealable.</p>
+            <p>But I will conclude this Part of my Diſ<g ref="char:EOLhyphen"/>courſe with two Inferences.</p>
+            <p n="1">1. It may ſerve for an Antidote againſt ſome late Books and Pamphlets of the Ro<g ref="char:EOLhyphen"/>miſh Emiſſaries.</p>
+            <p>They complain of the uncharitableneſs of Proteſtants, they inveigh againſt us meerly for believing our own Senſes; I mean, <hi>That the Catholick Religion</hi> (the <hi>Roman Catholick</hi> they ſhould ſay) <hi>allows of Trayterous Princi<g ref="char:EOLhyphen"/>ples,
+<pb n="22" facs="tcp:96484:14"/>deſtructive to Peace and Government; That Catholicks hold it an Article of Faith,</hi> (I ſpeak their own words) <hi>that the Pope can depoſe Kings, and abſolve Subjects from their Allegiance.</hi>
+            </p>
+            <p>I ſtand amazed at the ignorance or diſ<g ref="char:EOLhyphen"/>honeſty of ſome of them, that profeſs to the World, <hi>they never found any ſuch Principles aſ<g ref="char:EOLhyphen"/>ſerted in any of their General Councils.</hi> As if we had out-done them in their old trade of For<g ref="char:EOLhyphen"/>gery! As if the General Councils of <hi>Lyons</hi> and <hi>Trent,</hi> the third and fourth Councils of <hi>Lateran</hi> were meer fictions of the <hi>Proteſtants!</hi> I am ſure, either theſe are the Doctrines of the Church of <hi>Rome,</hi> or Tranſubſtantiation itſelf is none of them; either theſe are her Doctrines, or ſhe hath none at all.</p>
+            <p n="2">2. I might from hence take occaſion, to vindicate the peaceableneſs and loyalty of the Reformed Religion; that excellent Reli<g ref="char:EOLhyphen"/>gion, which is the beſt Friend in the World to Kings and Princes. And yet it ſuffers in the eſteem of ſome men, for the Crimes of thoſe, that with as much reaſon arrogate the Name of Proteſtants, as the Papiſts do that of Catholicks to their own party. I know no Proteſtant Church in the World, that hath by any publick act maintained any treaſon<g ref="char:EOLhyphen"/>able
+<pb n="23" facs="tcp:96484:14"/>Principles. 'Tis certain we have been e<g ref="char:EOLhyphen"/>ducated in a Faith of Loyalty and Obedi<g ref="char:EOLhyphen"/>ence, and I hope we ſhall never be tempted by any (though never ſo ſpecious) pretences to deſert it.</p>
+            <p>Whether there be amongſt us a ſort of men, that under the diſguiſe of zeal againſt Popery, labour to undermine the Govern<g ref="char:EOLhyphen"/>ment, I know not; but if there be, they are either Papiſts in Maſquerade, or at leaſt ſuch as ſerve the intereſt of <hi>Rome</hi> (though againſt their wills,) as truly as the Pope's own Crea<g ref="char:EOLhyphen"/>tures: I am ſure, neither the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> nor the beſt Reformed Churches in Chriſtendom will own them. God deliver us from the ſad effects of a fiery ſeditious Religion, whether of an Enthuſiaſtick, or Ro<g ref="char:EOLhyphen"/>man Catholick Spirit.</p>
+            <p n="2">2. I ſhould now come to ſhew, what we are to contribute towards the peace of the Church, the compoſing or ſuppreſſing our religious quarrels, which have almoſt eaten out the life and ſoul of Chriſtianity among us. But having already ſpent moſt of the time allotted for this Exerciſe, I ſhall only re<g ref="char:EOLhyphen"/>commend to you theſe two things, wherein every one that hears me, is concerned.</p>
+            <p n="1">
+               <pb n="24" facs="tcp:96484:15"/> 1. I doubt not, but a right underſtanding of the nature of Chriſtianity, would go a great way towards the abating our conten<g ref="char:EOLhyphen"/>tions about it. It muſt needs put an end to ſome of our controverſies, and ſecure us from the ſad conſequences of the reſt of them, if we had a true notion of the diffe<g ref="char:EOLhyphen"/>rence between ſuch things, as are eſſential to Religion, and ſuch as are at a great diſtance from it.</p>
+            <p>Now true Religion conſiſts in the imitati<g ref="char:EOLhyphen"/>on of the Divine perfections; <hi>Be ye perfect, even as your Father which is in Heaven is per<g ref="char:EOLhyphen"/>fect</hi>
+               <note n="(k)" place="margin">St. Matth. 5.48.</note>. <hi>As he which hath called you is holy, ſo be ye holy in all manner of Converſation</hi>
+               <note n="(l)" place="margin">1. Pet. 1.15.</note>: that is, ſo far as we are capable of being like to the moſt excellent Being, in this faln and im<g ref="char:EOLhyphen"/>perfect State. And this conſiſts in the mor<g ref="char:EOLhyphen"/>tifying of our Luſts and Paſſions, in living a Life of Spiritual Purity and Devotion, Self-denial and Meekneſs, Juſtice and Charity, Pa<g ref="char:EOLhyphen"/>tience &amp; Peaceableneſs, Sobriety &amp; Chaſtity; and becauſe <hi>in many things we offend all</hi>
+               <note n="(m)" place="margin">St. James 3.2.</note>, through ignorance, or inadvertency, or weakneſs, when we have done our beſt, we are to truſt in the Merits of Chriſt, for the pardon of our ſins, and the acceptance of our imperfect Righteouſneſs.</p>
+            <pb n="25" facs="tcp:96484:15"/>
+            <p> Theſe are the ſubſtantials of our Religi<g ref="char:EOLhyphen"/>on, about which all wiſe and good men are agreed, however we differ about other mat<g ref="char:EOLhyphen"/>ters. Did we make conſcience of theſe as we ought to do, we ſhould ſoon find by happy experience, that they are infinitely more for the honour of God, the peace of the Church, and the good of one another, then an hot and fiery contention about ſpeculative, in<g ref="char:EOLhyphen"/>determinable and unprofitable Queſtions. Could men be perſwaded to a greater care and ſtudy of this Catholick Chriſtianity, the minding of it would take up ſo much of our time and pains, that we ſhould hardly be at leiſure to raiſe or foment differences. Yet if any Diſputes ſhould ariſe about leſſer mat<g ref="char:EOLhyphen"/>ters, yet we ſhould all agree in obeying our Superiours, where we are not ſure of the un<g ref="char:EOLhyphen"/>lawfulneſs of their commands, &amp; in loving, praying for, doing good to one another.</p>
+            <p>Now ſince theſe things are ſo, let us bring our Opinions and Practices to this tri<g ref="char:EOLhyphen"/>al.</p>
+            <p n="1">1. As to matters of Doctrine or Opini<g ref="char:EOLhyphen"/>on; it is too evident, that the Articles of Faith are monſtruouſly ſwelled of late in the <hi>Ro<g ref="char:EOLhyphen"/>man Church;</hi> I mean by the addition of 12 new Articles of <hi>Pius</hi> the fourth, not one of
+<pb n="26" facs="tcp:96484:16"/>which is to be found in the Scriptures, or the Creeds of the Primitive Church. I cannot mention, without horror, the dreadful Ana<g ref="char:EOLhyphen"/>thema's they denounce againſt all that pre<g ref="char:EOLhyphen"/>ſume to deny any of them; but (to the ho<g ref="char:EOLhyphen"/>nour of the Church of <hi>England</hi> let it be ſaid) whatſoever is impoſed on us, as neceſſary to the Salvation of all men, is contained in the Apoſtles Creed. This is the Faith of the firſt and beſt times of Chriſtianity; the Faith in<g ref="char:EOLhyphen"/>to which we are baptized; and the belief of this Creed hath a direct influence on our Chriſtian practice, which is the great buſi<g ref="char:EOLhyphen"/>neſs of Religion. Let us therefore contend earneſtly for this <hi>Faith, which was once deliver<g ref="char:EOLhyphen"/>ed to the Saints</hi>
+               <note n="(n)" place="margin">Jude v. 3.</note>; Let us not entertain any other Opinions, which invalidate the neceſ<g ref="char:EOLhyphen"/>ſity of an holy life; let us not propagate our private conceptions with the breach of the publick peace &amp; order; &amp; then we ſhall have no reaſon to quarrel with one another for ſimple invincible Errors.</p>
+            <p n="2">2. Let us judge of matters of practice by the ſame rule; and then we ſhall lay the great<g ref="char:EOLhyphen"/>eſt ſtreſs upon ſuch things, as bring us to the neareſt conformity to God; we ſhall not build our hopes of Salvation on any outward obſervances or abſtinences about the mode
+<pb n="27" facs="tcp:96484:16"/>of our Worſhip, but on the great indiſpenſa<g ref="char:EOLhyphen"/>ble Duties of Chriſtianity: We ſhall comply with the Injunctions of Authority in all things, about which Chriſt hath not left us any ſtanding Law. For ſince many things done by Chriſt and his Apoſtles were occa<g ref="char:EOLhyphen"/>ſional and temporary, fitted to the circum<g ref="char:EOLhyphen"/>ſtances of thoſe times, but not of ours; ſince they were not founded on any moral reaſon, nor have we any command for the continu<g ref="char:EOLhyphen"/>ance of them; ſince there is no Law in Scrip<g ref="char:EOLhyphen"/>ture about theſe things, there can be no tranſgreſſion in the practice or diſuſe of them, otherwiſe then as they tend to the di<g ref="char:EOLhyphen"/>viding the Church, the contempt of Autho<g ref="char:EOLhyphen"/>rity, or the ſcandalizing our Brethren. But this brings me to the ſecond thing.</p>
+            <p n="2">2. Let us remember that we are under Chriſtian Laws and Government; and from hence we ſhall learn theſe three things.</p>
+            <p n="1">1. That we ought not to provide for our own ſafety, or the ſecurity of our Religion by Tumults, Inſurrections, or any other un<g ref="char:EOLhyphen"/>lawful means: For 'tis impoſſible that true Religion ſhould be promoted by ſin &amp; wick<g ref="char:EOLhyphen"/>edneſs, by ſuch ways as are contrary to the nature and ends of Religion. The Chriſtian Religion neither commands nor allows us to
+<pb n="28" facs="tcp:96484:17"/>fight for the Lord of Hoſts, by breaking his Laws; and it was eſtabliſht by doing good, by patient and conſtant ſuffering for it. Let it therefore be the peculiar glory of <hi>Turks</hi> &amp; <hi>Papiſts,</hi> to propagate their Religion with ſword and bloodſhed; but let us regulate our zeal with prudence, obedience, and charity, which make up the truly Chriſtian temper of <hi>Engliſh Proteſtants;</hi> and let no private paſſion or intereſt tranſport us beyond the bounds of our Duty to God and our Allegiance to the King: For if they do, we ſhall convince all impartial men, that we have as little ſenſe of true Religion, as our Adverſaries.</p>
+            <p n="2">2. We are alſo to obey the commands of our Superiors, as far as we can without ſin. For either all the Goſpel Precepts of obedi<g ref="char:EOLhyphen"/>ence ſignifie nothing at all, or they ſignifie thus much, <hi>that we ought to come up to Authority, as far as we can without diſobeying the Law of God. Let us therefore lay aſide all prejudice and groundleſs diſaffection; let us come with modeſt and humble diſpoſitions, ready to obey in all law<g ref="char:EOLhyphen"/>ful things, and reſolved to make the breach no wi<g ref="char:EOLhyphen"/>der, then we are bound in conſcience to do.</hi> Could men be perſwaded thus far, (and there is no reaſon why they ſhould not) we might yet hope to ſee, though not a perfect union, yet a
+<pb n="29" facs="tcp:96484:17"/>laſting peace in our days: For men would proportion their zeal to the nature of things, they would ſeek out for information; they would not take up objections upon truſt, nor revile the legal Conſtitutions; the number of Diſſenters would be much leſſened, and they would joyn with us in a joynt oppoſition of the common Enemy: They would bear with ſuch inconveniences as are not ſinful, for what Church under Heaven is perfect in all matters of worſhip and diſcipline? they would yield to a reſtraint of their liberty (in the ex<g ref="char:EOLhyphen"/>erciſe of it) for the peace of the Church; For muſt not every Member of any Society part with ſomething that he deſires, (might he chooſe for himſelf) in order to the publick Good?</p>
+            <p n="3">3. Where any thing is of a doubtful ſignifi<g ref="char:EOLhyphen"/>cation, we muſt put the moſt favourable con<g ref="char:EOLhyphen"/>ſtruction of it, that it is fairly capable of. Were this (favour ſhall I ſay, or) common e<g ref="char:EOLhyphen"/>quity allowed to the Conſtitutions of our Church, which is to all other things of Hu<g ref="char:EOLhyphen"/>man compoſure, we ſhould hear no more of thoſe vehement charges of <hi>Antichriſtianiſm</hi> and <hi>Popery,</hi> that are drawn up againſt them.</p>
+            <p>I am ſure 'tis neither conſcience nor pru<g ref="char:EOLhyphen"/>dence to expoſe the <hi>Church of England</hi> to the
+<pb n="30" facs="tcp:96484:18"/>hatred of <hi>forreign Proteſtants;</hi> and who can believe, that they way to keep out Popery, and ſtrengthen the intereſt of the Reformation, is by inflaming the popular fury againſt that Church, which is the ſtrongeſt Bulwark in Chriſtendom againſt the Papal Uſurpations?</p>
+            <p>And now I ſhall draw to a concluſion; <hi>Oh that we would know in this our day, &amp;c.</hi>
+            </p>
+            <p>If the Judgments of God, which we have already groaned under, cannot, ſure the dan<g ref="char:EOLhyphen"/>gers that threaten us &amp; our Religion, might help to abate our heats, and ſuppreſs our dif<g ref="char:EOLhyphen"/>ferences. We know, the wonderful zeal of the Jews for the intereſt of every private par<g ref="char:EOLhyphen"/>ty, and their inapprehenſiveneſs of the com<g ref="char:EOLhyphen"/>mon danger, made them become a prey to the <hi>Romans.</hi> Did not Chriſtianity decay in the Church of <hi>Corinth,</hi> as their Schiſms &amp; Facti<g ref="char:EOLhyphen"/>ons encreaſed? Did not the diviſions in the <hi>Eaſtern Churches</hi> end either in a total ſubverſi<g ref="char:EOLhyphen"/>on, or a diſmal corruption of Chriſtianity a<g ref="char:EOLhyphen"/>mong them? How were the glorious begin<g ref="char:EOLhyphen"/>ings of the Reformation obſtructed by the differences of ſome of the chief Reformers? And if our Adverſaries of <hi>Rome</hi> have of late made many Proſelytes in theſe Kingdoms, their ſucceſs is not owing to the goodneſs of their cauſe, but to the force of thoſe Argu<g ref="char:EOLhyphen"/>ments,
+<pb n="31" facs="tcp:96484:18"/>which we have put into their hands. Were not the former conqueſts of theſe Na<g ref="char:EOLhyphen"/>tions the effects of our own diviſions? God grant that ſaying may never be applied to us which was uſed of our Forefathers; <hi>that whilſt they ſeverally quarrelled among themſelves, they were all overcome by the common Enemy.</hi> We are told by one of their own Authors, <hi>That the moſt effectual way to deſtroy the Proteſtants, is by dividing them from and againſt one another</hi>
+               <note n="(o)" place="margin">Windeck de Haereſ. extirp. p. <hi>415.</hi>
+               </note>. The advice of <hi>Campanella</hi>
+               <note n="(p)" place="margin">Cap. <hi>25.</hi> p. <hi>207.</hi>
+               </note> hath been pur<g ref="char:EOLhyphen"/>ſued by the <hi>Romiſh Emiſſaries,</hi> that have been induſtrious in heightning our Animoſities, and blowing up every ſpark into a flame; <hi>in working on the paſſions of diſcontented men, ma<g ref="char:EOLhyphen"/>king harangues againſt the Church and Govern<g ref="char:EOLhyphen"/>ment; in ſubdividing us into leſſer parties, and promoting a general Toleration.</hi> They know well enough, <hi>that the reformed Religion in</hi> Eng<g ref="char:EOLhyphen"/>land <hi>muſt needs fall with our Church;</hi> they have ſeen <hi>how hard it is to ſet up a better (or any, eſta<g ref="char:EOLhyphen"/>bliſht) Church in the room of it;</hi> they are con<g ref="char:EOLhyphen"/>vinced, <hi>that a number of petty Sects, and divided Intereſts, cannot long maintain their ground a<g ref="char:EOLhyphen"/>gainſt the</hi> Roman <hi>Forces.</hi>
+            </p>
+            <p>If then we be concerned in good earneſt (as I hope we are) to preſerve the Reformed Religion, let us all endeavour to <hi>keep the uni<g ref="char:EOLhyphen"/>ty
+<pb n="32" facs="tcp:96484:19"/>of the Spirit in the bond of peace</hi>
+               <note n="(q)" place="margin">Epheſ. <hi>4.3.</hi>
+               </note>. And that you may underſtand what kind of Religion they are labouring to introduce, I will con<g ref="char:EOLhyphen"/>clude with a ſhort account of Popery.</p>
+            <p>
+               <hi>'Tis a Religion that teaches you to put off hu<g ref="char:EOLhyphen"/>manity, that you may be Catholicks, and to deny your ſenſes in a plain ſenſible matter; to know the will of God without a Bible, to pray to him by a Proxy, and to worſhip him juſt as the old Heathens did; to believe twice as much as Chriſt and his A<g ref="char:EOLhyphen"/>poſtles require, and to leave out one Command<g ref="char:EOLhyphen"/>ment which God himſelf enjoyned; to promote Chri<g ref="char:EOLhyphen"/>ſtian Charity by killing one another; and convert men with fire and faggot; to deny a known truth without telling a lye, and to ſwear to a known fal<g ref="char:EOLhyphen"/>ſity without perjury; to obtain pardon of your ſins without repentance, and to go to Heaven without holineſs; to worſhip a Deity of your Prieſts ma<g ref="char:EOLhyphen"/>king, and then to ſacrifice him to God.</hi>
+            </p>
+            <p>
+               <hi>And now let all wiſe and good men offer up their prayers to God, that he would make up thoſe brea<g ref="char:EOLhyphen"/>ches, which our ſins, and the ſubtilty of our enemies have made in the Church; that he, who is the Prince of Pesace, would inſpire us with that wiſdom that is pure and peaceable, and all our Governours with wiſdom and courage, to ſuppreſs the growth of Atheiſm and Prophaneneſs, of Superſtition and Idolatry, of Schiſm and Sedition.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
